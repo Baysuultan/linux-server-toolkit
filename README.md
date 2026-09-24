@@ -28,3 +28,10 @@ Example:
 ```text
 main
  └── feature/system-monitoring
+## Security
+
+The scripts are designed for basic system administration.
+
+Before running scripts from an unknown source, inspect the script contents and verify that the commands are safe.
+
+Do not store passwords, API keys, tokens, or other secrets in the repository.
