@@ -2,7 +2,7 @@
 
 ## Project Purpose
 
-Linux Server Toolkit is a small collection of Bash scripts for basic Linux server administration and monitoring.
+Linux Server Toolkit is a collection of Bash scripts for Linux server administration and monitoring.
 
 ## Project Structure
 
