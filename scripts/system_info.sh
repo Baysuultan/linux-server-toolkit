@@ -10,3 +10,5 @@ echo "Memory:"
 free -h
 echo "Load average:"
 cat /proc/loadavg
+echo "Load average (1m, 5m, 15m):"
+cat /proc/loadavg
