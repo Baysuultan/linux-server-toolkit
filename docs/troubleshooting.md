@@ -25,3 +25,6 @@ Check commit history:
 Run the script manually and check the output.
 
 For additional information, inspect the script source code.
+## Checking script permissions
+
+Use `ls -l scripts/` to check whether scripts have executable permissions.
